@@ -1,0 +1,37 @@
+
+
+.react-kanban-board {
+        width: 100%;
+      }    
+.react-kanban-column {
+    
+ 
+    width: 215px;
+    padding: 8px;
+  }
+  
+  .react-kanban-card {
+    width: 100% ;
+    min-width: 20% !important;
+  
+  }
+  
+  /* .react-kanban-card__title {
+    width: 20px;
+  } */
+
+  /* .react-kanban-column-header {
+      width: '5px';
+  } */
+  /* .react-kanban-card-skeleton {
+    
+      min-width: 20% !important;
+  } */
+
+  /* .react-kanban-card__description{
+    width: 100px;
+  } */
+
+
+
+  
